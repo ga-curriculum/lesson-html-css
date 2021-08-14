@@ -1,0 +1,44 @@
+body {
+    color: navy;
+}
+
+.centeralign {
+    text-align: center;
+    font-size: 25px;
+}
+
+.gvr {
+    height: 400px;
+    /* border: 10px solid black; */
+    box-shadow: 5px 5px 5px black;
+}
+
+#pyimg {
+    height: 200px;
+    display: block;
+    margin: auto;
+}
+
+#footer {
+    background-color: aliceblue;
+    font-style: italic;
+    text-align: center;
+    width: 250px;
+    margin: auto;
+}
+
+.crypto-tile {
+    background-color: #FFD580;
+    display: inline-block;
+    color: black;
+}
+
+.crypto-logo {
+    height: 200px;
+    display: block;
+    margin: 10px;
+}
+
+.crypto-text {
+    margin-left: 10px;
+}
