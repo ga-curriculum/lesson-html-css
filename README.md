@@ -2,5 +2,6 @@
 
 ## Lesson Plan
 By the end of this lesson, students should be able to:
-* asdf
-* asdf
+* Understand the basics of HTML syntax to create basic web pages
+* Understand the basics of CSS syntax to style their basic web pages
+* Be able to create simple and interesting web pages using raw HTML and CSS
